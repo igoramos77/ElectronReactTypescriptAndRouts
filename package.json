@@ -18,7 +18,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "Px Tecnologia",
+  "author": "Igor Brown - Px Tecnologia",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.9.0",
